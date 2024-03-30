@@ -1,10 +1,10 @@
 import './App.css';
-import CifForm from './components/CifForm';
+import PersonalDetailsForm from './components/PersonalDetailsForm';
 
 const App = ()  => {
   return (
     <div className="App">
-     <CifForm/>
+     <PersonalDetailsForm/>
     </div>
   );
 }
